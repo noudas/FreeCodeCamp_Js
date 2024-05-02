@@ -1,3 +1,2 @@
 info about this project
-# FreeCodeCamp_Js
-# FreeCodeCamp_Js
+# FreeCodeCamp_Js - Learn Basic JavaScript by Building a Role Playing Game
